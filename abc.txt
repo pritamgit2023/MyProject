@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is Feature1.
+=======
+This is Feature2.
+>>>>>>> Feature2
